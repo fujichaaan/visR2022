@@ -32,7 +32,7 @@
 注意：今回、データ自体は公開していません<br>
 
 ## 2. 各章で使用したRコード
-Part 1は [こちら] <br>
+Part 1は [<a href="https://github.com/fujichaaan/visR2022/blob/main/Part1_github.R">こちら</a>] <br>
 Part 2は [こちら] <br>
 Part 3は [こちら] <br>
 Part 4は [こちら] <br>
