@@ -1,6 +1,16 @@
 # visR2022
 2022年1月8日に実施した可視化セミナー「初心者向け データ可視化のエッセンスとその実践」の中で使用したコードを公開します。
 
+## 0. セミナーの概要
+日時：2022年1月8日 15:00〜17:00 <br>
+開催方法：Zoomによるウェビナー　<br>
+講演者：藤井亮輔　<br>
+セミナーURL:https://connpass.com/event/231958/ <br><br>
+
+![header](https://user-images.githubusercontent.com/19466700/147861789-7ccdc0f4-fc42-414d-b38d-150593b34643.jpg)
+
+<br>
+
 ## 1. 使用したデータ（health）について定義書
 
  <table border="1">
