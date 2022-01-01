@@ -32,10 +32,9 @@
 注意：今回、データ自体は公開していません<br>
 
 ## 2. 各章で使用したRコード
-Part 1は [<a href="https://github.com/fujichaaan/visR2022/blob/main/Part1_github.R">こちら</a>] <br>
-Part 2は [こちら] <br>
-Part 3は [こちら] <br>
-Part 4は [こちら] <br>
+Part 1（グラフの基本的な要素を知る）は、<a href="https://github.com/fujichaaan/visR2022/blob/main/Part1_github.R">こちら</a><br>
+Part 2（質的な変数の可視化を知る）は、<a href="https://github.com/fujichaaan/visR2022/blob/main/Part2_github.R">こちら</a><br>
+Part 3（量的な変数の可視化を知る）は、<a href="https://github.com/fujichaaan/visR2022/blob/main/Part3_github.R">こちら</a><br>
 
 ## 3. 使用したパワーポイント
 （2022年4月上旬公開予定） <br>
