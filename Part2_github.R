@@ -260,7 +260,7 @@ health %>%
      guides(fill = guide_legend(reverse = TRUE)) +
      labs(fill = "area")
 
-# Page.39（円グラフ右）##########
+# Page.39（棒グラフ）##########
 health %>%
      mutate(area = fct_relevel(area, "higashi", "kita", "chuo", "nishi", "minami")) %>%
      ggplot() +
@@ -304,7 +304,7 @@ health %>%
         guides(fill = guide_legend(reverse = TRUE)) +
         labs(fill = "month")
 
-# Page.43（ベン図）
+# Page.43（ベン図）##########
 library(ggvenn)
 
 list_drug <- list(
@@ -316,7 +316,7 @@ ggvenn(list_drug,
        fill_color = c("#0073C2FF", "#CD534CFF"),
        text_size = 5)
 
-# Page.46（UpSet）
+# Page.46（UpSet）##########
 library(UpSetR)
 
 list_risk <- list(
