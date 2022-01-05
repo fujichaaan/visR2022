@@ -13,9 +13,9 @@
 
 <br>
 
-## 1. 使用したデータ（health）について定義書
+## 1. 使用したデータの定義書
 
-今回使用したデータのコードブックを下記に示します（今回、データ自体は公開していません）。 
+今回の資料作成に使用したデータとそのコードブックを下記に示します（今回、healthに関しては、データの公開をしていません）。 
 
 <br>
 
@@ -29,11 +29,11 @@
       <td>health_codebook</td>
     </tr>
     <tr>
-      <td>covid</td>
+      <td><a href="https://drive.google.com/file/d/1CWg8bcHdh_Xu3qp3Gkh3jSRxfKHuw92S/view?usp=sharing">covid</a></td>
       <td><a href="https://drive.google.com/file/d/1hOA_LFmiK3gIaUVHuKT6cQzs0AKTV9wn/view?usp=sharing">covid_codebook</a></td>
     </tr>
     <tr>
-      <td>cancer</td>
+      <td><a href="https://drive.google.com/file/d/1ZSgoiJlia6cs0pQ-1NbRVrBHlnfl-Ewq/view?usp=sharing">cancer</a></td>
       <td><a href="https://drive.google.com/file/d/1FiRa0I7th285X6k20EIVP3uT4f8FoWaQ/view?usp=sharing">cancer_codebook</a></td>
     </tr>
   </table>
