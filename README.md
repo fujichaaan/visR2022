@@ -6,8 +6,8 @@
 開催方法：Zoomによるウェビナー　<br>
 講演者：藤井亮輔（Eurac Research/藤田医科大学）　<br>
 モデレーター：佐藤俊太朗（長崎大学病院）<br>
-後援企業: 株式会社金芳堂<br>
-セミナーURL: https://connpass.com/event/231958/ <br>
+後援企業：株式会社金芳堂<br>
+セミナーURL： https://connpass.com/event/231958/ <br>
 
 <br>
 
