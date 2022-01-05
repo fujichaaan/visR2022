@@ -30,11 +30,11 @@
     </tr>
     <tr>
       <td>covid</td>
-      <td>covid_codebook</td>
+      <td><a href="https://drive.google.com/file/d/1hOA_LFmiK3gIaUVHuKT6cQzs0AKTV9wn/view?usp=sharing">covid_codebook</a></td>
     </tr>
     <tr>
       <td>cancer</td>
-      <td>cancer_codebook</td>
+      <td><a href="https://drive.google.com/file/d/1FiRa0I7th285X6k20EIVP3uT4f8FoWaQ/view?usp=sharing">cancer_codebook</a></td>
     </tr>
   </table>
 
