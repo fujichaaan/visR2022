@@ -46,6 +46,7 @@
 ### Part 1（グラフの基本的な要素を知る）のコードは、<a href="https://github.com/fujichaaan/visR2022/blob/main/Part1_github.R">こちら</a><br>
 ### Part 2（質的な変数の可視化を知る）のコードは、<a href="https://github.com/fujichaaan/visR2022/blob/main/Part2_github.R">こちら</a><br>
 ### Part 3（量的な変数の可視化を知る）のコードは、<a href="https://github.com/fujichaaan/visR2022/blob/main/Part3_github.R">こちら</a>
+### 学生企画の当選者を選ぶコードは、<a href="https://github.com/fujichaaan/visR2022/blob/main/Selection_winners_github.R">こちら</a>
 
 <br>
 
