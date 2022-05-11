@@ -50,8 +50,8 @@
 
 <br>
 
-## 3. 講演資料
-### （2022年4月上旬公開予定） 
+## 3. 講演資料：<a href="https://drive.google.com/file/d/1f5wn75lcxIV8zNuImt9uTczOC5eApkYe/view?usp=sharing">こちら</a><br>
+![Rviz2022](https://user-images.githubusercontent.com/19466700/167881371-f1b144be-1932-4c97-8b3c-6b1179858e75.jpg)
 
 <br>
 
