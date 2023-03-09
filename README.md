@@ -55,9 +55,5 @@
 
 <br>
 
-## 4. 講演動画
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rtrVv5ZGgWA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## 5. このセミナーに関する問い合わせ
+## 4. このセミナーに関する問い合わせ
 藤井亮輔（rfujii AT fujita-hu.ac.jp）まで
